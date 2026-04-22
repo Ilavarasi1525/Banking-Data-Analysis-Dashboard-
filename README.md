@@ -129,13 +129,6 @@ jupyter notebook
 
 ---
 
-## 📸 Dashboard Preview
-Add your dashboard screenshot:
-
-![Dashboard](images/dashboard_preview.png)
-
----
-
 ## 🚀 Project Outcome
 - Built complete banking analytics workflow  
 - Strengthened SQL and Python skills  
