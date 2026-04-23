@@ -14,6 +14,11 @@
 
 ---
 
+🔗 Google Colab Notebook: https://colab.research.google.com
+
+
+...
+
 ## 📌 Project Overview
 The **Banking Data Analysis Dashboard** project focuses on analyzing banking customer and transaction data to generate insights for financial decision-making.  
 This project demonstrates a complete data analysis pipeline including data cleaning, SQL analysis, and interactive dashboard creation using Power BI.
@@ -23,6 +28,7 @@ The objective is to understand customer behavior, loan distribution, deposits, a
 ---
 
 ## 📑 Table of Contents
+-
 - Project Overview  
 - Objectives  
 - Tools & Technologies  
@@ -36,8 +42,7 @@ The objective is to understand customer behavior, loan distribution, deposits, a
 - Dashboard Preview  
 - Project Outcome  
 - Future Enhancements  
-- About Me  
-- Contact  
+  
 
 ---
 
